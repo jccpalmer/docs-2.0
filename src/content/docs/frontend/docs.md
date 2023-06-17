@@ -5,6 +5,8 @@ description: A breakdown of how I built this website and what I learned in the p
 
 *TODO: Screenshot of Documentation Site*
 
+*TODO: Link to github and site*
+
 Motivated by the significance of documentation in project success, I created this site to offer comprehensive analyses of my projects. On this site, it was intended to show detailed insights into the motivation behind each project, my development journey, contributions made, lessons learned, and technical breakdowns, providing a valuable resource for understanding and appreciating my work.
 
 ## I. Getting started
@@ -83,3 +85,4 @@ Can be found [here](https://github.com/LadyBluenotes/docs-2.0/issues).
 
 ☐ Add personalized touches to site.
 ☐ Add screenshots to each individual page.
+☐ Add links to each section, where relevant.
