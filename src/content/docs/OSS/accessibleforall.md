@@ -1,10 +1,9 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Accessible for All
+description: A page to talk about my contributions to the project Accessible for All.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+Accessible for All is a community dedicated to making the web more accessible for everyone. The aim of this project is to be the stepping stone to get started where official documentation is often difficult to interpret for new web developers.
 
 ## Further reading
 
