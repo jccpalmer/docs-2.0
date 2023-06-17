@@ -1,5 +1,5 @@
 ---
-title: About Sarah Gerrard 💁
+title: Who is Sarah Gerrard? 💁
 description: A page that explains who Sarah Gerrard is and how she got into software development.
 ---
 
