@@ -56,7 +56,6 @@ export default defineConfig({
             { label: 'My Socials', link: '/socials/' },
             { label: 'My Resume', link: '/resume/' },
             { label: 'Contact Me', link: '/contact/' },
-            { label: 'My Blog', link: '/blog/' },
           ],
         },
       ],
