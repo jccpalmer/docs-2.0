@@ -26,6 +26,7 @@ export default defineConfig({
             { label: 'Astro', link: '/oss/astro/' },
             { label: 'Global Chemistry', link: '/oss/global-chem/' },
             { label: 'Material UI', link: '/oss/mui/' },
+            { label: 'SolidJS', link: '/oss/solidjs/' },
           ],
         },
         {

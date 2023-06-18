@@ -1,11 +1,74 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Global Chem
+description: A page to talk about my contributions to the project Global Chem.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+*TODO: Add images relevant to contribution*
 
-## Further reading
+*TODO: Add project links*
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+Global Chemistry serves as an open source platform where writing the molecules directly allows for the name to not be ambiguous to what a chemical is is anymore and allows for full transparency. The hopes of this project is to be a base for the population to govern how the chemicals in use for things like Food, Clothing, Environment, Materials, Drugs, War and a lot more are beneficial for all of us.
+
+## Contribution Summary
+
+### Duration
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 2023 - present
+
+### Role
+* Lead front-end developer
+* Maintainer
+* Administrator in Discord & GitHub
+* Social media manager
+
+### Contribution responsibilities
+As a core team member of the Global Chemistry team, I have diverse responsibilities that span front-end development, site maintenance, and social media management. Some of my key contributions include:
+
+#### As lead front-end developer:
+
+* Oversee architecture and production of React applications, ensuring scalability, maintainability, and adherence to industry best practices.
+
+* Guide and mentor new contributors, providing support, constructive feedback, and helping them develop their front-end skills.
+
+* Present chemical data in an intuitive and visually appealing manner, leveraging front-end expertise to enhance accessibility and understanding.
+
+* Work closely with contributors to ensure efficient development, align efforts, and steer projects in the right direction.
+
+* Deliver high-quality React applications that meet user requirements and business objectives, ensuring successful development and delivery.
+
+#### As a maintainer and administrator:
+
+* Ensuring the smooth operation and maintenance of the Global Chemistry website and applications.
+
+* Conducting regular updates and bug fixes to improve performance and user experience.
+
+* Managing user contributions and reviewing pull requests on GitHub to maintain code integrity.
+
+* Addressing and resolving issues reported by the community and users.
+
+* Collaborating with other maintainers and administrators to establish project guidelines and best practices.
+
+* Created comprehensive contribution guidelines, outlining coding standards, documentation requirements, and submission processes.
+
+* Designed issue templates for bug reports, feature requests, and documentation updates, streamlining the issue reporting process.
+
+#### As social media manager:
+
+* Managing and curating content for Global Chemistry's social media platforms (e.g., Twitter, Facebook, Instagram).
+
+* Developing and implementing social media strategies to promote the project's initiatives and engage with the community.
+
+* Creating compelling and informative social media posts to increase awareness and reach of Global Chemistry.
+
+* Monitoring and responding to comments, messages, and inquiries on social media platforms.
+
+### Technologies used:
+
+The following technologies during the contribution period:
+
+* CSS
+* Figma
+* Git
+* GitHub
+* HTML
+* NextJS
+* React
