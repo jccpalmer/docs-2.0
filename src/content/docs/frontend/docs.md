@@ -83,6 +83,6 @@ Can be found [here](https://github.com/LadyBluenotes/docs-2.0/issues).
 
 ### Feature Improvements
 
-☐ Add personalized touches to site.
-☐ Add screenshots to each individual page.
-☐ Add links to each section, where relevant.
+- [ ] Add personalized touches to site.
+- [ ] Add screenshots to each individual page.
+- [ ] Add links to each section, where relevant.
