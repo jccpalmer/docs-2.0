@@ -3,6 +3,8 @@ title: Budget Buddy API
 description: A page that talks about the budget buddy api that i built.
 ---
 
+*TODO: Link to github and site*
+
 Budget Buddy is a RESTful API built with Node.js, Express, and MongoDB. It enables users to track expenses and income. The API uses JSON Web Tokens (JWT) for authentication, safeguarding endpoints from unauthorized access. User data is protected using bcryptjs for password hashing and salting. With Budget Buddy, users can create accounts, log in, and manage transactions securely.
 
 ## I. Getting started
@@ -25,7 +27,7 @@ How to install and run the application:
 
         npm install
 
-3. Copy the contents of the .env.example file into a new file called .env and add the appropriate values.
+3. Copy the contents of the `.env.example` file into a new file called `.env` and add the appropriate values.
 
 4. Run the application.
 
@@ -103,7 +105,7 @@ While this project is completed at the time of writing this, I may come back and
 
 ### Known issues
 
-Can be found [here]().
+Can be found [here](https://github.com/LadyBluenotes/budget-buddy/issues).
 
 ### Future improvements
 
