@@ -7,7 +7,7 @@ description: A breakdown of how I built this website and what I learned in the p
 
 *TODO: Link to github and site*
 
-Motivated by the significance of documentation in project success, I created this site to offer comprehensive analyses of my projects. On this site, it was intended to show detailed insights into the motivation behind each project, my development journey, contributions made, lessons learned, and technical breakdowns, providing a valuable resource for understanding and appreciating my work.
+Motivated by the importance of documentation in project success, I created this site to offer an analyses of my projects. On this site, it was intended to show detailed insights into the motivation behind each project, my development journey, contributions made, lessons learned, and technical breakdowns, providing a valuable resource for understanding and appreciating my work.
 
 ## I. Getting started
 
