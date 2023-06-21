@@ -1,11 +1,55 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: My Portfolio
+description: A breakdown of how I built my portfolio website and what I learned in the process.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.
+*TODO: Screenshot of Site*
 
-## Further reading
+*TODO: Link to github and site*
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+## I. Getting started
+
+### Prerequisites
+
+Other than an internet browser and IDE, there are no other requirements to run this application.
+
+### Installation
+
+How to install and run the application.
+
+1. Clone the repository from GitHub.
+
+        git clone https://github.com/LadyBluenotes/
+
+2. Start the application
+
+        npm run dev
+
+## II. About
+
+### Built with
+
+## III. Motivation
+
+## IV. Key takeaways
+
+### Discoveries and reflections
+
+### Technical growth
+
+
+## V. Acknowledgements
+
+
+
+## VI. Additional Information
+
+
+
+### Known Issues
+
+Can be found [here]().
+
+### Feature Improvements
+
+- [ ] 
