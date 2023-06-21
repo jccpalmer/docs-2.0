@@ -78,7 +78,7 @@ With this being my first modal attempt, I followed a [tutorial from Brad Travers
 
 ### Known Issues
 
-Can be found [here](https://github.com/LadyBluenotes/TheHappyHourGuide).
+Can be found [here](https://github.com/LadyBluenotes/TheHappyHourGuide/issues).
 
 ### Feature Improvements
 
