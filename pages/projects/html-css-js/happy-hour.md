@@ -3,6 +3,8 @@ title: Happy Hour Guide
 description: A breakdown of how I built the happy hour guide website and what I learned in the process.
 ---
 
+# Happy Hour Guide
+
 *TODO: Screenshot of Site*
 
 *TODO: Link to github and site*

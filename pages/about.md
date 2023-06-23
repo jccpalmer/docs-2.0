@@ -1,21 +1,15 @@
 ---
-title: Who is Sarah Gerrard? 💁
+title: About Me
 description: A page that explains who Sarah Gerrard is and how she got into software development.
 ---
 
-Welcome to my About Me page!
+# About Me
 
-I'm Sarah, a dynamic full stack software developer fueled by a love for open source development and a deep love for crafting exceptional digital experiences. With a talent for translating complex topics into easily digestible content, I am passionate about effectively communicating intricate concepts to both technical and non-technical audiences.
+I'm Sarah, a dynamic full-stack software developer with a passion for open source development and crafting exceptional digital experiences. With a talent for translating complex topics into easily digestible content, I am passionate about effectively communicating intricate concepts to both technical and non-technical audiences.
 
-Collaboration and effective communication are at the core of my work philosophy. I thrive in team environments, seamlessly collaborating with colleagues, clients, and stakeholders to achieve shared goals. By fostering a positive and supportive work culture, I believe we can collectively create remarkable projects and software solutions that surpass expectations.
+Constantly seeking knowledge in this fast-paced industry, I explore new technologies, frameworks, and languages to push boundaries and create innovative solutions. I also place great importance on well-written documentation that empowers developers and facilitates collaboration within open-source communities.
 
-Driven by a thirst for knowledge and a desire to stay ahead in this rapidly evolving industry, I am constantly exploring new technologies, frameworks, and languages. This curiosity enables me to push boundaries and deliver innovative solutions that resonate with users and elevate their digital experiences.
-
-With this drive to continue to learn, I have come to value the importance of well-written, accessible documentation. I understand that clear and comprehensive documentation is not only crucial for project adoption but also empowers developers to contribute and grow within open-source communities. I take pride in my ability to craft user-friendly documentation that facilitates smooth onboarding and encourages continued collaboration.
-
-Beyond my technical expertise, I am passionate about sharing my knowledge and experiences with others. Whether through writing informative blog posts, delivering engaging presentations, or mentoring aspiring developers, I actively contribute to the growth and success of the broader software development community.
-
-I invite you to explore my portfolio and get in touch. If you have any questions or would like to discuss potential collaborations, I would love to connect with you! I strive to be apart of impactful projects and to work with other talented people.
+In addition to my technical expertise, I enjoy sharing knowledge through blog posts and social media. I invite you to explore my portfolio and reach out for potential collaborations. Let's work together on impactful projects and surround ourselves with talented individuals.
 
 ## My Journey to Software Development
 

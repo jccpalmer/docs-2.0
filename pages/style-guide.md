@@ -3,6 +3,8 @@ title: Style Guide
 description: A style guide I will be using throughout this site and my work in general.
 ---
 
+# Style Guide
+
 Welcome to my personalized Style Guide! This living document serves as an embodiment of my journey in exploring documentation creation while forming a robust, consistent brand identity. It's a means to uphold a harmonious voice and tone across all forms of official communications and content that I personally curate and produce.
 
 Aimed at unifying all written mediums, from marketing materials and website copy to email correspondence, this guide also brings together visual elements to build a cohesive brand aesthetic. It establishes precise guidelines on grammar, punctuation, formatting, and layout to ensure my content is not only professional but also coherent and easy to digest.

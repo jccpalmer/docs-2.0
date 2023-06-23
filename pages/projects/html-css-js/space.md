@@ -3,6 +3,8 @@ title: Welcome to Space
 description: A breakdown of how I built the welcome to space website and what I learned in the process.
 ---
 
+# Welcome to Space
+
 *TODO: Screenshot of Site*
 
 *TODO: Link to github and site*

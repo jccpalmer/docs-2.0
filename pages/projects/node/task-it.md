@@ -3,6 +3,8 @@ title: Task It API
 description: A page that talks about the task it api that i built.
 ---
 
+# Task It API
+
 *TODO: Link to github and site*
 
 Task-It is a user-friendly API designed for efficient task management. Users can create tasks with details such as title, description, completion status, due date, and assignment to another user. The API incorporates default settings to ensure data validity, such as setting the due date as the task creation date if not provided, assigning tasks to the creator if no user is specified, and setting the status to false if no due date is provided.

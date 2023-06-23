@@ -3,6 +3,8 @@ title: Poke-Dex
 description: A breakdown of how I built the poke-dex website and what I learned in the process.
 ---
 
+# Poke-Dex
+
 *TODO: Screenshot of Site*
 
 *TODO: Link to github and site*

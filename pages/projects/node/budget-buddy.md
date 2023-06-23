@@ -3,6 +3,8 @@ title: Budget Buddy API
 description: A page that talks about the budget buddy api that i built.
 ---
 
+# Budget Buddy API
+
 *TODO: Link to github and site*
 
 Budget Buddy is a RESTful API built with Node.js, Express, and MongoDB. It enables users to track expenses and income. The API uses JSON Web Tokens (JWT) for authentication, safeguarding endpoints from unauthorized access. User data is protected using bcryptjs for password hashing and salting. With Budget Buddy, users can create accounts, log in, and manage transactions securely.
