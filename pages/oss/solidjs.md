@@ -3,6 +3,8 @@ title: SolidJS
 description: A page to talk about my contributions to the project SolidJS.
 ---
 
+# SolidJS
+
 *TODO: Add images relevant to contribution*
 
 *TODO: Add project links*
@@ -12,10 +14,10 @@ SolidJS is an open-source JavaScript framework for building high-performance use
 ## Contribution Summary
 
 ### Duration
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;April 2023 - present
+April 2023 - present
 
 ### Role
-* Technical writer on documentation team
+* Technical writer on Documentation Team
 * Contributor
 
 ### Contribution responsibilities

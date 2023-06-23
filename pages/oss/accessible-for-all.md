@@ -3,6 +3,8 @@ title: Accessible for All
 description: A page to talk about my contributions to the project Accessible for All.
 ---
 
+# Accessible for All
+
 *TODO: Add images relevant to contribution*
 
 *TODO: Add project links*

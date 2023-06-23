@@ -3,6 +3,8 @@ title: Material UI
 description: A page to talk about my contributions to the project MUI.
 ---
 
+# Material UI
+
 *TODO: Add images relevant to contribution*
 
 *TODO: Add project links*

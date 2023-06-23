@@ -3,6 +3,8 @@ title: Global Chem
 description: A page to talk about my contributions to the project Global Chem.
 ---
 
+# Global Chemistry
+
 *TODO: Add images relevant to contribution*
 
 *TODO: Add project links*

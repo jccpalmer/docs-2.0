@@ -3,6 +3,8 @@ title: Astro
 description: A page to talk about my contributions to the project Astro.
 ---
 
+Astro
+
 *TODO: Add images relevant to contribution*
 
 *TODO: Add project links*

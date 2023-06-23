@@ -1,0 +1,22 @@
+{
+    "blog_link": {
+        "title": "Blog",
+        "href": "https://blog.sarahgerrard.me",
+        "newWindow": true
+    },
+    "github_link": {
+        "title": "GitHub",
+        "href": "https://github.com/ladybluenotes",
+        "newWindow": true
+    },
+    "linkedin_link": {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/sarahgerrard/",
+        "newWindow": true
+    },
+    "twitter_link": {
+        "title": "Twitter",
+        "href": "https://twitter.com/ladybluenotes",
+        "newWindow": true
+    }
+}

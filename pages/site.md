@@ -1,7 +1,9 @@
 ---
-title: Why did I build this site?
+title: About this Site
 description: A page used to describe why this website was created.
 ---
+
+# Why did I build this site?
 
 There are a slew of reasons why someone might want to create their own documentation site, but here are the few that motivated me into doing it:
 
