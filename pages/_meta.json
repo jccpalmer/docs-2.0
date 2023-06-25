@@ -9,13 +9,11 @@
   "home": {
     "title": "Home",
     "type": "page",
-    "href": "https://sarahgerrard.me",
-    "newWindow": "true"
+    "href": "/"
   },
   "about": {
     "title": "About",
     "type": "page",
-    "href": "/about",
-    "newWindow": "true"
+    "href": "/about"
   }
 }

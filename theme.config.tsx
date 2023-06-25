@@ -22,6 +22,14 @@ const config: DocsThemeConfig = {
       </>
     )
   },
+  banner: {
+    key: 'WIP',
+    text: (
+      <span>
+        🚧 This site is a work in progress. Things will continue to be added and
+      </span>
+    )
+  },
   logo: <span>Sarah's Documentation</span>,
   project: {
     link: 'https://github.com/LadyBluenotes/docs-2.0',
