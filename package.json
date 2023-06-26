@@ -13,6 +13,7 @@
   },
   "author": "ladybluenotes",
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.13",
     "next": "^13.4.4",
     "nextra": "latest",
     "nextra-theme-docs": "^2.8.0",
