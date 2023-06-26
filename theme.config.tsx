@@ -26,7 +26,7 @@ const config: DocsThemeConfig = {
     key: 'WIP',
     text: (
       <span>
-        🚧 This site is a work in progress. Things will continue to be added and
+        🚧 This site is a work in progress. Things will continue to be added and changed. 🚧
       </span>
     )
   },
