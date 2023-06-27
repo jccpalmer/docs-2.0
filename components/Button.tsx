@@ -30,6 +30,9 @@ export default function Buttons({
         display: "flex",
         flexWrap: "wrap",
         flexDirection: "row",
+        justifyContent: "center",
+        alignItems: "center",
+
     }}>
         <Button
         icon={<FaGithub />}
