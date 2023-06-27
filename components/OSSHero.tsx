@@ -19,9 +19,10 @@ const OSSHero = ({
             flexWrap: 'wrap',
             justifyContent: 'center',
             alignItems: 'center',
+            padding: '5px'
         }}>
-            <CardOSS src={src} alt={alt} />
-            <Button repo={repo} href={href} />
+                <CardOSS src={src} alt={alt} />
+                <Button repo={repo} href={href} />
         </div>
     )
 }
