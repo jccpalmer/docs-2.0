@@ -1,0 +1,23 @@
+{
+  "index": "Introduction",
+  "site": "Site Overview",
+  "style-guide": "Style Guide",
+  "oss": "Open Source",
+  "projects": "Portfolio Projects",
+  "connect": "Connect with Me",
+  "contact": {
+    "title": "Contact",
+    "type": "page",
+    "href": "https://sarahgerrard.me/#contact"
+  },
+  "home": {
+    "title": "Home",
+    "type": "page",
+    "href": "/"
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "href": "/about"
+  }
+}

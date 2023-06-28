@@ -1,16 +1,28 @@
 {
-  "name": "pink-photon",
-  "type": "module",
+  "name": "nextra-docs-template",
   "version": "0.0.1",
+  "description": "Documentation 2.0",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadyBluenotes/docs-2.0.git"
+  },
+  "author": "ladybluenotes",
   "dependencies": {
-    "@astrojs/starlight": "^0.1.0",
-    "astro": "^2.5.0"
+    "@nextui-org/react": "^1.0.0-beta.13",
+    "next": "^13.4.4",
+    "nextra": "latest",
+    "nextra-theme-docs": "^2.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "^4.9.3"
   }
 }
