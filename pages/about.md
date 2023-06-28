@@ -21,23 +21,23 @@ As the internet flourished, I discovered platforms like Neopets and Tumblr, wher
 
 During high school, I achieved a diploma in Computer Aided Design, a significant accomplishment for me. However, when graduating, I faced a crossroads between technology and healthcare.
 
-Under pressure, I pursued a healthcare career while continuing to pursue technology in my free time. This pivot allowed me to pursuie the problem-solving aspect of what I enjoyed, as well as introduced me to a diverse range of people and their capabilities.
+Under pressure, I pursued a healthcare career while continuing to explore technology in my free time. This pivot allowed me to cultivate the problem-solving aspect of what I enjoyed; it also introduced me to a diverse range of people and their capabilities.
 
-After transitioning, however, I couldn't ignore my love for technology. During the pandemic, where I had to pause working for close to 3 months, I took career tests this exploration led me back to the IT field, specifically into software development.
+After transitioning to healthcare, however, I couldn't ignore my love for technology. During the pandemic — where I had to pause working for close to 3 months — I took career tests. This exploration led me back to the IT field, specifically into software development.
 
 ### 🖱️ Embracing Software Development
 
 In 2021, I took a leap of faith and enrolled in a coding bootcamp, embarking on a new path in software development. Despite the challenges, I found it incredibly exciting.
 
-Once I delved deeper into the world of software development, I encountered the concept of open source development, which sparked a desire within me to contribute to the tech community. I was driven to continue my learning and growth as a developer.
+Once I delved deeper into the world of software development, I encountered the concept of open source development, which sparked a desire within me to contribute to the tech community. This drove me to continue my learning and growth as a developer.
 
 During this journey, I discovered my knack for simplifying complex concepts and making them more accessible. This led me to develop my own content through blog posts and writing comprehensive documentation for my own websites. By doing so, I gained a deeper understanding of what developers would need to know and how to effectively communicate technical information.
 
-This experience not only solidified my passion for software development but also reinforced my commitment to sharing knowledge and supporting fellow developers in their learning journeys. 
+This experience not only solidified my passion for software development, but it also reinforced my commitment to sharing knowledge and supporting fellow developers in their learning journeys. 
 
 ### ✨ Evolving Skills and Seeking Exciting Opportunities
 
-Today, I am dedicated to honing my skills as a software developer and actively contributing to projects that align with my passions. I strive to stay updated with the latest technologies and trends, continuously expanding my knowledge and expertise.
+Today, I dedicate my time to honing my skills as a software developer and actively contributing to projects that align with my passions. I strive to stay updated with the latest technologies and trends, continuously expanding my knowledge and expertise.
 
 I actively seek opportunities to collaborate with like-minded individuals and contribute to open-source projects that make a meaningful impact. Through my contributions, I aim to not only sharpen my skills but also give back to the developer community that has supported my growth.
 
