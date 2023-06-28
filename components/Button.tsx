@@ -5,8 +5,8 @@ export default function Buttons({
   repo,
   href,
 }: {
-    repo?: string;
-    href?: string;
+  repo?: string;
+  href?: string;
 }) {
   if (!href) {
     return (
@@ -26,15 +26,16 @@ export default function Buttons({
   }
 
   return (
-    <div style={{
+    <div
+      style={{
         display: "flex",
         flexWrap: "wrap",
         flexDirection: "row",
         justifyContent: "center",
         alignItems: "center",
-
-    }}>
-        <Button
+      }}
+    >
+      <Button
         icon={<FaGithub />}
         onClick={() => {
           window.open(repo, "_blank");
@@ -42,25 +43,24 @@ export default function Buttons({
         css={{
           backgroundColor: "#000",
           border: "1px solid white",
-          margin: "10px"
+          margin: "10px",
         }}
       >
         GitHub
-      </Button>        
-        <Button
-      icon={<FaExternalLinkAlt />}
-      color="primary"
-      onClick={() => {
-        window.open(href, "_blank");
-      }}
-      css={{
-        border: "1px solid white",
-        margin: "10px"
-      }}
-    >
-      Website
-    </Button>
+      </Button>
+      <Button
+        icon={<FaExternalLinkAlt />}
+        color="primary"
+        onClick={() => {
+          window.open(href, "_blank");
+        }}
+        css={{
+          border: "1px solid white",
+          margin: "10px",
+        }}
+      >
+        Website
+      </Button>
     </div>
-    
   );
 }

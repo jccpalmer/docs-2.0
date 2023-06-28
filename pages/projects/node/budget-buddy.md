@@ -22,18 +22,19 @@ The following must be installed on your machine or accessible to you:
 How to install and run the application:
 
 1. Clone the repository from GitHub.
-
+```bash copy
         git clone https://github.com/LadyBluenotes/budget-buddy
-
+```
 2. Install the dependencies
-
+```bash copy
         npm install
-
+```
 3. Copy the contents of the `.env.example` file into a new file called `.env` and add the appropriate values.
 
 4. Run the application.
-
+```bash copy
         npm run start
+```
 
 ## II. About
 
@@ -71,15 +72,11 @@ Ultimately, this API served as a way for me to further my understanding of user 
 
 ### Discoveries and reflections
 
-While a good portion of this project was a review of the technologies I had previously used, I still gained valuable insights.
+While a good portion of this project was a review of the technologies I had previously used, I still gained valuable insights such as:
 
-One of the most important things I further learned was how to pass user data to the API securely. Recognizing the importance of security in API development, I took measures to protect user data and ensure its integrity throughout the process. This exploration improved my understanding and equipped me with essential skills in securing sensitive information.
-
-Implementing JWT for endpoint protection was an enlightening experience. JWT's stateless and cookie-free nature provided a great solution for securing authenticated endpoints. I found the simplicity, scalability, and inherent security features of JWT fascinating. Moreover, this project has piqued my interest in further exploring how JWT integrates with various front-end architectures.
-
-Postman emerged as an invaluable tool for testing the API. Its diverse features allowed me to thoroughly assess the API's functionality, test various scenarios, and evaluate the authentication process without relying on extensive front-end development. This streamlined testing process enabled me to ensure the security and functionality of the API with ease.
-
-Overall, this project provided an opportunity for me to deepen my understanding of user authentication, refine my skills in API development, and reinforce the importance of securing user data.
+1. **Learning secure user data transfer**: One of the most important things I further learned was how to pass user data to the API securely. Recognizing the importance of security in API development, I took measures to protect user data and ensure its integrity throughout the process. This exploration improved my understanding and equipped me with essential skills in securing sensitive information.
+2. **Endpoint protection**: Implementing JWT for endpoint protection was an enlightening experience. JWT's stateless and cookie-free nature provided a great solution for securing authenticated endpoints. I found the simplicity, scalability, and inherent security features of JWT fascinating. Moreover, this project has piqued my interest in further exploring how JWT integrates with various front-end architectures.
+3. **Postman for API Testing**:Postman emerged as an invaluable tool for testing the API. Its diverse features allowed me to thoroughly assess the API's functionality, test various scenarios, and evaluate the authentication process without relying on extensive front-end development. This streamlined testing process enabled me to ensure the security and functionality of the API with ease.
 
 ### Technical growth
 

@@ -34,7 +34,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/LadyBluenotes/docs-2.0',
   },
-  primaryHue: 51,
+  primaryHue: 206,
   editLink: {
     component: () => null,
   },

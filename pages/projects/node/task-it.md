@@ -24,18 +24,22 @@ The following must be installed on your machine or accessible to you:
 How to install and run the application:
 
 1. Clone the repository from GitHub.
-
+```bash copy
         git clone https://github.com/LadyBluenotes/task-it
+```
 
 2. Install the dependencies
 
+```bash copy
         npm install
+```
 
 3. Copy the contents of the `.env.example` file into a new file called `.env` and add the appropriate values.
 
 4. Run the application.
-
+```bash copy
         npm run start
+```
 
 ## II. About
 
@@ -72,15 +76,12 @@ Ultimately, this API served as a way for me to further my understanding of user 
 
 ### Discoveries and reflections
 
-Building my own API from scratch has been rewarding and enlightening experience. Throughout it, it had pushed me to explore innovative problem solving approaches.
+Building my own API from scratch has been rewarding and enlightening experience. Throughout it, it had pushed me to explore innovative problem solving approaches. Some of the things I learned were:
 
-This API challenged me to think beyond conventional solutions and encouraged me to adopt a more creative mindset. I learned to approach problems from different angles and to consider various strategies to achieve the desired outcomes.
-
-Additionally, handling errors that may arise during API development became a crucial aspect of my learning process. I delved into understanding error handling techniques and best practices, ensuring that appropriate error messages were communicated to clients for enhanced user experience.
-
-I also discovered the further enforced the importance of browser developer tools as a valuable resource for debugging and troubleshooting. Leveraging these tools enabled me to examine network requests, inspect responses, and identify potential issues, improving the efficiency of my development workflow.
-
-Lastly, I grasped the significance of breaking down complex tasks into smaller, manageable components. Adopting an incremental development approach, I focused on building and testing simple functionalities first, gradually expanding them to encompass the broader scope of the project. This methodology allowed for easier debugging and more efficient progress tracking.
+1. **Creative problem solving**: This API challenged me to think beyond conventional solutions and encouraged me to adopt a more creative mindset. I learned to approach problems from different angles and to consider various strategies to achieve the desired outcomes.
+2. **Handling Errors**: Handling errors that may arise during API development became a crucial aspect of my learning process. I delved into understanding error handling techniques and best practices, ensuring that appropriate error messages were communicated to clients for enhanced user experience.
+3. **Browser Tools**: I also discovered the further enforced the importance of browser developer tools as a valuable resource for debugging and troubleshooting. Leveraging these tools enabled me to examine network requests, inspect responses, and identify potential issues, improving the efficiency of my development workflow.
+4. **Incremental development**: I grasped the significance of breaking down complex tasks into smaller, manageable components. Adopting an incremental development approach, I focused on building and testing simple functionalities first, gradually expanding them to encompass the broader scope of the project. This methodology allowed for easier debugging and more efficient progress tracking.
 
 ### Technical growth
 

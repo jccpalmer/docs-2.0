@@ -5,7 +5,11 @@
   "oss": "Open Source",
   "projects": "Portfolio Projects",
   "connect": "Connect with Me",
-  "contact": "Get in Touch",
+  "contact": {
+    "title": "Contact",
+    "type": "page",
+    "href": "https://sarahgerrard.me/#contact"
+  },
   "home": {
     "title": "Home",
     "type": "page",

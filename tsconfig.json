@@ -15,6 +15,6 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Accordion.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/Accordion.jsx", "components/Form.jsx"],
   "exclude": ["node_modules"]
 }

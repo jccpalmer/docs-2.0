@@ -1,7 +1,6 @@
 import { Collapse, Text } from "@nextui-org/react";
 
 export default function Accordion() {
-
   const items = [
     {
       title: "Central knowledge base",
@@ -31,9 +30,13 @@ export default function Accordion() {
   ];
 
   return (
-    <Collapse.Group shadow bordered css={{
-      margin: "20px auto",
-    }}>
+    <Collapse.Group
+      shadow
+      bordered
+      css={{
+        margin: "20px auto",
+      }}
+    >
       {items.map((item, index) => (
         <Collapse
           key={index}
